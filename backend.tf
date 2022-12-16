@@ -3,7 +3,7 @@
 #     bucket = "immersion123"
 #     key    = "state.tfstate"
 #     region = "us-west-2"
-#     profile = "jespo"
+#     profile = "default"
 # dynamodb_table= "immersiontable"
 #    }
 #  }
